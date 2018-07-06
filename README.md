@@ -1,1 +1,2 @@
-# python_inline_bash
+# Python inline in a bash script...
+Ever annoyed when you're just chilling in your shell, writing some convoluted BASH script, and want to make it just a tad bit more -insane- fun?
